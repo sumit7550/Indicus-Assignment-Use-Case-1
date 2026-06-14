@@ -1,4 +1,4 @@
-# Indicus-Assignment
+# Indicus-Assignment Use Case 1
 Automation Assignment
 [Starting Objective]: Login to saucedemo.com with username standard_user and password secret_sauce. Add the first two products to the cart. Open the cart and verify the cart shows 2 items.
 ============================================================
